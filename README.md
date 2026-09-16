@@ -7,7 +7,7 @@ Background in sales and market development, with strong skills in reporting, per
 
 ---
 
-### 🔧 Technologies & Tools
+###  Technologies & Tools
 
 - *Languages:* Python, SQL  
 - *Libraries:* pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Seaborn  
@@ -17,7 +17,7 @@ Background in sales and market development, with strong skills in reporting, per
 
 ---
 
-### 📊 Featured Projects
+###  Featured Projects
 
 You can find my data analysis and machine learning projects here:  
 👉 **[Ividchi-Projects](https://github.com/ividchi/Ividchi-Projects)**
@@ -30,7 +30,7 @@ Key work includes:
 
 ---
 
-### 🚀 Current Focus
+###  Current Focus
 
 - Strengthening data analysis and business intelligence skills  
 - Building cleaner, well-documented projects  
@@ -39,7 +39,7 @@ Key work includes:
 
 ---
 
-### 🔗 Connect with me
+###  Connect with me
 
 - LinkedIn: [Chi I-Vid Soft Ndeh](https://www.linkedin.com/in/chi-i-vid-soft-ndeh-536065181)  
 - Email: ividchi@gmail.com  

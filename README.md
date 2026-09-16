@@ -2,7 +2,7 @@
 
 *Aspiring Data Analyst | Data Analytics & Business Intelligence*
 
-Business professional transitioning into data analytics, with practical experience in *Python, **SQL*, data cleaning, exploratory analysis, and machine learning foundations.  
+Business professional transitioning into data analytics, with practical experience in Python, SQL, data cleaning, exploratory analysis, and machine learning foundations.  
 Background in sales and market development, with strong skills in reporting, performance tracking, and business insight generation.
 
 ---

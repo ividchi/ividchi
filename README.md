@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi I'm an aspiring data scientist
+# I'm currently working on data analysis projects, visualization projects, and machine learning projects 
+# I work on data bricks, google big query, azure ml, tableau and Jupyter for this projects
+# I'm currently learning data engineering with aws and data bricks
+# I'm looking for help with internship opportunities to boots my skills 
+# you can reach me through my email ivivdchi@gmail.com
 
 <!--
 **ividchi/ividchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
